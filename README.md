@@ -2,9 +2,11 @@
 <img src="./AttackOnBall-Demo.gif">
 
 ## Dependencies
+```
 torch==1.12.1
 pygame==2.1.2
 tensorboardx==2.5.1
+```
 
 ## Run code
 ```
